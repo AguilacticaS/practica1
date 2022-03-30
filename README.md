@@ -4,5 +4,4 @@ Primer Proyecto con Spring framework y Git
 
 ## Integrantes
 
-Nombre: Arturo Yitzack Reynoso Sánchez
-Número de cuenta: 40800439
+Reynoso Sánchez Arturo Yitzack, 408000439
