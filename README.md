@@ -9,5 +9,3 @@ Primer Proyecto con Spring framework y Git
 - Ramírez González Armando `317158225`
 - Reynoso Sánchez Arturo Yitzack `408000439`
 - Velasco Flores Marco Antonio `418004087`
-
-
