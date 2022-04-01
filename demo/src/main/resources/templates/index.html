@@ -24,10 +24,28 @@
         <div class="col">
         </div>
         <div class="col-8">
+
             <font size=10 face="Comic Sans MS">Bienvenido</font>
                 <form method="post" th:action="@{/procesa}">
                     <button style="margin-top: 14px;" class="btn btn-warning" type="submit">Entrar</button>
                 </form>
+            <h1>Nota</h1>
+            <div id="tarjeta">
+                <form method="post" th:action="@{/procesa}">
+                    <div class="mb-3">
+                        <!-- Textos a mostrar en la página -->
+                        <label for="titulo" class="form-label">Título de la nota</label>
+                        <input type="text" id="titulo" name="titulo" class="form-control"
+                               placeholder="Introduce el título" required/>
+                    </div>
+                    <div class="form-floating">
+                        <textarea class="form-control" placeholder="Introduce tu texto aquí" id="nota" name="nota"
+                                  style="height: 100px"></textarea>
+                        <label for="nota">Aquí va tu nota</label>
+                    </div>
+                    <button style="margin-top: 14px;" class="btn btn-warning" type="submit">Enviar</button>
+                </form>
+            </div>
         </div>
         <div class="col">
         </div>

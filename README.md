@@ -10,5 +10,3 @@ Primer Proyecto con Spring framework y Git
 - Velasco Flores Marco Antonio `418004087`
 - Velázquez Caballero Ixchel `313119895`
 
-
-
